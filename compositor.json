@@ -113,26 +113,6 @@
           "repo": "Anurajkr"
         }
       ]
-    },
-    {
-      "component": "article",
-      "metadata": {
-        "source": "github.readme"
-      },
-      "html": "\n"
-    },
-    {
-      "component": "footer",
-      "links": [
-        {
-          "href": "https://github.com/kranuraj/Anurajkr",
-          "text": "GitHub"
-        },
-        {
-          "href": "https://github.com/kranuraj",
-          "text": "kranuraj"
-        }
-      ]
     }
   ]
 }
